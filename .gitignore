@@ -1,0 +1,4 @@
+# Para ignorar a pasta target/ em todas as subpastas do projeto
+**/target/
+
+**/.idea/
